@@ -124,7 +124,7 @@ namespace EraLauncher
                  }
                  catch
                  {
-                     MessageBox.Show("Unable to download launcher content.", "ERA Launcher", MessageBoxButton.OK, MessageBoxImage.Stop);
+                     MessageBox.Show("Unable to download launcher content.", "Saturn Launcher", MessageBoxButton.OK, MessageBoxImage.Stop);
                  }
                  finally
                  {
